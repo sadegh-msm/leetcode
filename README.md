@@ -15,17 +15,6 @@ Each file is named after the corresponding LeetCode problem number and contains 
 To run the solutions, you need:
 - Python 3.x installed on your system.
 
-### Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sadegh-msm/leetcode.git
-   cd leetcode
-   ```
-2. Run the desired solution:
-   ```bash
-   python3 <problem_number>.py
-   ```
-
 ## Contributing
 
 Contributions are welcome! If you have a better solution or additional insights for any problem, feel free to submit a pull request.
